@@ -3,12 +3,7 @@
   "subtitle": "Пример сервера",
   "banner": "",
   "description": "ну просто",
- "levels": [
-  {
-    "path": "levels/test-level.json"
-  }
-],
-
+  "levels": [],
   "skins": [],
   "bgms": [],
   "effects": []
