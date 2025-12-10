@@ -1,8 +1,8 @@
 {
-  "title": "My Sonolus Server",
+  "title": "bebebe",
   "subtitle": "Пример сервера",
   "banner": "",
-  "description": "Сервер для тестов",
+  "description": "ну просто",
   "levels": [],
   "skins": [],
   "bgms": [],
