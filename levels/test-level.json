@@ -1,12 +1,32 @@
 {
   "name": "ствол",
-  "artist": "плм",
-  "author": "kisami",
-  "engine": "sonolus.engine.standard",
-  "difficulty": 27,
+  "version": 1,
   "rating": 1,
-  "cover": "",
-  "bgm": "",
-  "chart": ""
+  "engine": {
+    "id": "sonolus.engine.standard"
+  },
+  "useSkin": {
+    "useDefault": true
+  },
+  "useBackground": {
+    "useDefault": true
+  },
+  "useEffect": {
+    "useDefault": true
+  },
+  "useParticle": {
+    "useDefault": true
+  },
+  "cover": {
+    "type": "url",
+    "url": ""
+  },
+  "bgm": {
+    "type": "url",
+    "url": ""
+  },
+  "chart": {
+    "type": "url",
+    "url": ""
+  }
 }
-
