@@ -16,15 +16,9 @@
   },
   "useParticle": {
     "useDefault": true
-  },
-  "cover": {
-    "type": "url",
-    "url": ""
-  },
-  "bgm": {
-    "type": "url",
-    "url": ""
-  },
+  }
+}
+
   "chart": {
     "type": "url",
     "url": ""
